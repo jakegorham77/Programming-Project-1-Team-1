@@ -6,8 +6,8 @@
 - Set up the GitHub repository for Team 1.
 - Started organizing the project work with the team.
 
-## Next Steps
+## Week 2
 
-- Confirm the tasks for each team member.
-- Begin the assigned project work.
-- Review our progress with the team.
+- Created Project plan - https://docs.google.com/spreadsheets/d/1CWgbf_KSyHgguwMKAX22F5si9716RXa5suhY4CR05NE/edit?usp=sharing
+- Assigned assignements to team members
+- Need to find a time to meetup
