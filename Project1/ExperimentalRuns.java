@@ -1,3 +1,11 @@
+/***
+*Team 1
+*Team Members: Victor, Anupa, Jake, Mubarak
+*CS2430-502 Project 1
+* Programming Project 1: Algorithm Performance_PLO-CS-3
+*
+*/
+
 package Project1;
 
 import java.util.*;
